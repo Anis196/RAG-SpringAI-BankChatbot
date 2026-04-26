@@ -1,4 +1,4 @@
-# ABM Bank Application
+# RAG-SpringAI-BankChatbot Application
 A Spring Boot application demonstrating the integration of Generative AI (using Ollama) with Retrieval Augmented Generation (RAG) for intelligent banking customer support.
 
 
@@ -135,8 +135,8 @@ A Spring Boot application demonstrating the integration of Generative AI (using 
 ### Backend Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/abm-bank.git
-cd abm-bank
+git clone https://github.com/yourusername/RAG-SpringAI-BankChatbot.git
+cd RAG-SpringAI-BankChatbot
 ```
 
 2. Install Ollama:
@@ -185,7 +185,7 @@ mvn spring-boot:run
 ## Project Structure
 
 ```
-com.abmbank
+com.RAG-SpringAI-BankChatbot
 ├── ai/
 │   ├── assistant/    # AI chat implementation
 │   │   ├── AiAssistant.java      # Main AI chat logic
