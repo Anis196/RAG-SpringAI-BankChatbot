@@ -135,7 +135,7 @@ A Spring Boot application demonstrating the integration of Generative AI (using 
 ### Backend Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/RAG-SpringAI-BankChatbot.git
+git clone https://github.com/Anis196/RAG-SpringAI-BankChatbot.git
 cd RAG-SpringAI-BankChatbot
 ```
 
